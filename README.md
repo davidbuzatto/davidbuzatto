@@ -8,4 +8,7 @@ I have a Ph.D. in biotechnology (bioinformatics/computational biology) at Ribeir
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidbuzatto&theme=prussian&layout=compact)](https://github.com/davidbuzatto?tab=repositories)
 
 My current working repositories are:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidbuzatto&show_owner=true&repo=AlgoritmosEstruturasDeDados)](https://github.com/davidbuzatto/AlgoritmosEstruturasDeDados)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidbuzatto&show_owner=true&show_icons=true&theme=prussian&repo=AlgoritmosEstruturasDeDados)](https://github.com/davidbuzatto/AlgoritmosEstruturasDeDados)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidbuzatto&show_owner=true&show_icons=true&theme=prussian&repo=AlgoritmosEstruturasDeDados)](https://github.com/davidbuzatto/AlgoritmosEstruturasDeDados)
