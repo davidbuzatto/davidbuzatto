@@ -9,8 +9,8 @@ I have a Ph.D. in biotechnology (bioinformatics/computational biology) at Ribeir
 
 ## These are my current working public repositories:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidbuzatto&show_owner=true&show_icons=true&theme=prussian&repo=AuroraLogo)](https://github.com/davidbuzatto/AuroraLogo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidbuzatto&show_owner=true&show_icons=true&theme=prussian&repo=Livro-Desenvolvimento-de-Aplica-es-Web-em-Java)](https://github.com/davidbuzatto/Livro-Desenvolvimento-de-Aplica-es-Web-em-Java)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidbuzatto&show_owner=true&show_icons=true&theme=prussian&repo=ComputerSupportedClassHelper)](https://github.com/davidbuzatto/ComputerSupportedClassHelper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidbuzatto&show_owner=true&show_icons=true&theme=prussian&repo=JustAnotherAutomatonSimulator)](https://github.com/davidbuzatto/JustAnotherAutomatonSimulator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidbuzatto&show_owner=true&show_icons=true&theme=prussian&repo=JJudge)](https://github.com/davidbuzatto/JJudge)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidbuzatto&show_owner=true&show_icons=true&theme=prussian&repo=AlgoritmosEstruturasDeDados)](https://github.com/davidbuzatto/AlgoritmosEstruturasDeDados)
